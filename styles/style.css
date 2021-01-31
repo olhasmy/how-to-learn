@@ -204,7 +204,7 @@
   align-items: center;
 }
 
-.feynman_image {
+.feynman__image {
   width: 867px;
   height: 637px;
   position: absolute;
@@ -291,11 +291,12 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin: 0 0 20px;
+  margin: 0;
   z-index: 2;
 }
 
 .table__text_theme_dark {
+  margin: 20px 0 0 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -386,5 +387,3 @@
   width: 16px;
   height: 16px;
 }
-
-
