@@ -1,0 +1,34 @@
+.cards {
+  width: 920px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 240px);
+  padding: 0;
+  gap: 100px;
+  list-style: none;
+}
+
+.cards__item {
+  text-align: center;
+}
+
+.cards__image {
+  width: 160px;
+  height: 160px;
+  border-radius: 100%;
+  margin: 60px 40px 43px 40px;
+}
+
+.cards__title {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 16px 0;
+}
+
+.cards__description {
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0;
+}
