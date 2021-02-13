@@ -1,0 +1,17 @@
+.resources__logo-zone {
+  width: 1100px;
+  display: flex;
+  margin: 80px auto 217px;
+  padding: 0;
+  list-style: none;
+}
+
+.resources__logo {
+  transition: opacity 0.5s linear;
+  width: 270px;
+  height: 38px;
+}
+
+.resources__logo:hover {
+  opacity: 0.5;
+}
