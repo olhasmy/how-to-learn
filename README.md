@@ -16,7 +16,7 @@
 - [2 Спринт](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-criteria-2/index.html).
 
 Доработка проекта:
-- Сделать лендинг адаптивным под мобильные устройства.
+- Сделать лендинг адаптивным для разных разрешений экрана.
 
 Для ознакомления с проектом необходимо: 
 - Запустить "GitBash"("Terminal" на Mac OS);
